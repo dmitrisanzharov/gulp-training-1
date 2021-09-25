@@ -1,0 +1,1 @@
+console.log("this is file 1"),console.log("this is file 2"),console.log("This is file 2");const n=()=>{console.log("blah")};alert("omg it worked");
